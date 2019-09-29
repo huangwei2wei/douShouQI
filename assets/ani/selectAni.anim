@@ -1,0 +1,48 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "selectAni",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 0.3333333333333333,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "props": {
+      "y": [
+        {
+          "frame": 0,
+          "value": 0,
+          "curve": "expoOut"
+        },
+        {
+          "frame": 0.3333333333333333,
+          "value": 20
+        }
+      ],
+      "scaleX": [
+        {
+          "frame": 0,
+          "value": 1,
+          "curve": "quartOut"
+        },
+        {
+          "frame": 0.3333333333333333,
+          "value": 1.1
+        }
+      ],
+      "scaleY": [
+        {
+          "frame": 0,
+          "value": 1,
+          "curve": "quartOut"
+        },
+        {
+          "frame": 0.3333333333333333,
+          "value": 1.1
+        }
+      ]
+    }
+  },
+  "events": []
+}
